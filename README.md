@@ -1,11 +1,10 @@
-# gerador_cores
+# Gerador de Cores
 
-A new Flutter project.
+Pequeno projeto em Flutter para um trabalho da faculdade. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
+# Documentation Flutter
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
